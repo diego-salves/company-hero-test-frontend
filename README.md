@@ -34,4 +34,4 @@ O frontend consome a API aberta hospedada no Render, através da URL: [https://c
 
 Utilizar Vite, TypeScript e React, em conjunto com o deploy na Vercel, garantiu uma aplicação frontend rápida, robusta e fácil de manter.
 
-**nota** perdão pelo design simples, não tive tempo hábil de fazer um figma mais amigável 😅.
+**Nota:** perdão pelo design simples, não tive tempo hábil de fazer um figma mais amigável 😅.
