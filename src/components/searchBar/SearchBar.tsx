@@ -26,7 +26,7 @@ export default function SearchBar({
           type="text"
           value={location}
           onChange={(e) => setLocation(e.target.value)}
-          placeholder="A good place"
+          placeholder="Insira uma cidade, estado ou país"
           className="w-full h-full outline-none bg-white bg-opacity-40 hover:bg-opacity-35 rounded-md border border-t-0 border-white
          border-opacity-50 focus:border-opacity-75 p-2 pr-8 md:p-3 duration-150"
         />
